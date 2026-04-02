@@ -1,13 +1,9 @@
-I am postdoctoral fellow
-
-#### Contact
-
-Email: dingtao[at]shanghaitech.edu.dn
-
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+I am postdoctoral fellow (Investigator pripical) at ShanghaiTech University. I obtained my Ph.D. from Newcastle University. Research focuses on Non-Euclidean Statistics and Deep Learning, with applications in Bioinformatics, including spatial omics, neuroscience, and biomedical data analysis.
 
 #### Research Interests
 Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+
+#### Contact
+Email: dingtao[at]shanghaitech.edu.dn
+
 

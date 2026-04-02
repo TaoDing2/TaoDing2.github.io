@@ -1,12 +1,6 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
-
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
-
-- First-Prize Graduate Academic Scholarship (CUMT), 2023 & 2024.
-
-- Outstanding Undergraduate Thesis Award (Jiangsu, China), 2022.
-
-- First-Prize Corporate Scholarship (CUMT), 2020.
-
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
+- Full PhD Scholarship: China Scholarship Council (CSC) & Newcastle University, 2018.
+- National Graduate Scholarship: Ministry of Education, China, 2017.
+- Outstanding Graduate Student: Jiangnan University, 2017, 2018.
+- Mathematical Modeling Awards: Third Prize in National Post-Graduate Contest (2016); 
+- Second Prize in Undergraduate Math Competition (Anhui, 2014).
