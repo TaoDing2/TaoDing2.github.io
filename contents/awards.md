@@ -1,6 +1,6 @@
-
-- Full PhD Scholarship: China Scholarship Council (CSC) & Newcastle University, 2018.
-- National Graduate Scholarship: Ministry of Education, China, 2017.
-- Outstanding Graduate Student: Jiangnan University, 2017, 2018.
-- Mathematical Modeling Awards: Third Prize in National Post-Graduate Contest (2016); 
-- Second Prize in Undergraduate Math Competition (Anhui, 2014).
+1.	China Scholarship Council Ph.D. Scholarship (48 months), 2018
+2.	Outstanding Graduate Student Award for postgraduate students at Jiangnan University, 2018
+3.	National Scholarship for Postgraduate Students, 2017
+4.	Excellent Postgraduate Student Award at Jiangnan University, 2017
+5.	3rd Prize, XIII National Postgraduate Mathematical Contest in Mathematical Modelling, 2016
+6.	2nd Prize, National Mathematics Preliminary Contest for Undergraduate Students, 2014

@@ -26,6 +26,11 @@
     font-weight: 400;
 }
 
+.top-section h2 {
+    transform: translateY(-0.5em);
+}
+
+
 .top-section .top-section-content {
     position: relative;
     z-index: 1;

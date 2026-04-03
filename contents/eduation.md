@@ -1,3 +1,0 @@
-- 2019.09 – 2024.08	Ph.D. in Statistics	Newcastle University（Advisor: Tom Nye，Jianqing Shi）
-- 2015.09 – 2018.06	M.S. in Applied Mathematics	Jiangnan University（Advisor: Jie Gao）
-- 2011.09 – 2015.06	B.S. in Mathematics and Applied Mathematics	Huangshan University
