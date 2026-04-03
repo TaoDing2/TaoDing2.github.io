@@ -6,8 +6,8 @@
 ## About Me
 I am a Postdoctoral Fellow at **ShanghaiTech University**, working on **spatial transcriptomics, computational biology, and Non-Euclidean statistics**. 
 
-## News
-- I am actively seeking tenure-track positions in Research Institutes or Universities.  
+## 🔥News
+I am actively seeking tenure-track positions in Research Institutes or Universities.  
 
 ## Contact
 - **Email**: dingtao@shanghaitech.edu.cn  
