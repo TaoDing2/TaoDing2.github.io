@@ -7,5 +7,5 @@
 ---
 
 ### <i class="bi bi-people"></i> Student Mentorship
-- **Mathematical Contest in Modeling** (MCM/ICM), USA – Advisor (2025, 2026)
-- **National Undergraduate Mathematical Contest in Modelling**, China – Advisor; Shanghai Award, Third Prize (2025)
+- **Mathematical Contest in Modeling** (MCM/ICM), 2025 and 2026
+- **National Undergraduate Mathematical Contest in Modelling**, Third Prize (Shanghai) 2025
