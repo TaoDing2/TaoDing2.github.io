@@ -11,6 +11,7 @@ I am currently a postdoctoral fellow (Principal Investigator) at Institute of Ma
 - Manifold-valued Data Analysis
 - Deep Learning
 - Bioinformatics
+- Spatial Omics, Neuroscience
 
 ---
 ### Contact Information
