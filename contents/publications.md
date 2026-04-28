@@ -12,6 +12,6 @@
 
 ### Co-authored Papers (Selected)
 1. Wang, Y., Xuan, C., Wu, H., Zhang, B., <strong>Ding, T.</strong>, & Gao, J. (2023). P-CSN: single-cell RNA sequencing data analysis by partial cell-specific network. <em>Briefings in Bioinformatics</em>, 24(3), bbad180.（JCR Q1）
-2. Wang, Y., Zhou, G., Guan, T., Wang, Y., Xuan, C., <strong>Ding, T.</strong>, & Gao, J. (2022). A network-based matrix factorization framework for ceRNA co-modules recognition of cancer genomic data. <em>Briefings in Bioinformatics</em>, 23(5).（JCR Q1）
+2. Wang, Y., Zhou, G., Guan, T., Wang, Y., Xuan, C., <strong>Ding, T.</strong>, & Gao, J. (2022). A network-based matrix factorization framework for ceRNA co-modules recognition of cancer genomic data. <em>Briefings in Bioinformatics</em>, 23(5), bbac154.（JCR Q1）
 3. Wu, M., Xu, J., <strong>Ding, T.</strong>, & Gao, J. (2021). Mixed Distribution Models Based on Single-Cell RNA Sequencing Data. <em>Interdisciplinary Sciences: Computational Life Sciences</em>, 13, 362-370.（JCR Q1）
 4. Sun, M., <strong>Ding, T.</strong>, Tang, X. Q., & Yu, K. (2018). An efficient mixed-model for screening differentially expressed genes of breast cancer based on LR-RF. <em>IEEE/ACM transactions on computational biology and bioinformatics</em>, 16(1), 124-130.（JCR Q1）
