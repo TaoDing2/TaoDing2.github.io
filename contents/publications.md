@@ -1,7 +1,7 @@
 ### First Author
-1.	<strong>Ding, T.</strong>, & Zeng, P. (2026). GALA: A unified landmark-free framework for coarse-to-fine spatial alignment across resolutions and modalities in spatial transcriptomics. <em>Briefings in Bioinformatics</em>. [[Paper]](https://doi.org/10.1093/bib/bbag181) [[Code]](https://github.com/TaoDing2/GALA)（JCR Q1）.
+1.	<strong>Ding, T.</strong>, & Zeng, P. (2026). GALA: A unified landmark-free framework for coarse-to-fine spatial alignment across resolutions and modalities in spatial transcriptomics. <em>Briefings in Bioinformatics</em>, 27(2), bbag181. [[Paper]](https://doi.org/10.1093/bib/bbag181) [[Code]](https://github.com/TaoDing2/GALA)（JCR Q1）.
 
-2.	<strong>Ding, T.</strong>, Nye, T. M., & Wang, Y. (2025). Manifold-valued models for analysis of EEG time series data. <em>Computational Statistics & Data Analysis</em>, 209, 108168.[[Paper]](https://doi.org/10.1016/j.csda.2025.108168) [[Code]](https://github.com/TaoDing2/geomTS)（JCAR Q2）
+2.	<strong>Ding, T.</strong>, Nye, T. M., & Wang, Y. (2025). Manifold-valued models for analysis of EEG time series data. <em>Computational Statistics & Data Analysis</em>, 209, 108168.[[Paper]](https://doi.org/10.1016/j.csda.2025.108168) [[Code]](https://github.com/TaoDing2/geomTS)（JCR Q2）
 
 3.	<strong>Ding, T.</strong>, Gao, J., Zhu, S., Xu, J., & Wu, M. (2019). Predicting microRNA-disease association based on microRNA structural and functional similarity network. <em>Quantitative Biology</em>, 7, 138-146. [[Paper]](https://doi.org/10.1007/s40484-019-0170-0)（JCR Q4）
 
